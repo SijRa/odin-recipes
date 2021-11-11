@@ -1,2 +1,2 @@
 # odin-recipes
-The Odin Project - Fullstack development project
+Basic HTML website to showcase some recipes
